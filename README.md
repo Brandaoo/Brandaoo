@@ -9,7 +9,8 @@
 </div>
   
   
- ##My Skills
+### My Skills
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +24,7 @@
 </div>
   
   
-  ### My Skills
+
 
   
 ![Snake animation](https://github.com/Brandaoo/Brandaoo/blob/output/github-contribution-grid-snake.svg)
