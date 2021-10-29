@@ -26,5 +26,5 @@
   ##
 
   
-![Snake animation](https://github.com/Brandaoo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Brandaoo/Brandaoo/blob/output/github-contribution-grid-snake.svg)
  
