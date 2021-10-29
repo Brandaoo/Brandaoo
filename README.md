@@ -23,7 +23,7 @@
 </div>
   
   
-  ##
+  ### My Skills
 
   
 ![Snake animation](https://github.com/Brandaoo/Brandaoo/blob/output/github-contribution-grid-snake.svg)
