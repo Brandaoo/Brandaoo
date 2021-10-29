@@ -24,3 +24,7 @@
   
   
   ##
+
+  
+![Snake animation](https://github.com/rafaballerini/Brandaoo/blob/output/github-contribution-grid-snake.svg)
+ 
